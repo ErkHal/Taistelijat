@@ -1,4 +1,4 @@
-# Meatheads
+# Taistelijat
 
 ## 2D Arena shooter meant to be played with friends
 
