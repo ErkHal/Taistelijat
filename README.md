@@ -1,5 +1,7 @@
 # Taistelijat
 
+![](screenshot.png)
+
 ## 2D Arena shooter meant to be played with friends
 
 Gameplay features:
