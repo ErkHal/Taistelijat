@@ -4,6 +4,6 @@
 
 Gameplay features:
 - Unlimited ammo
-- 3 Grenades per life
+- Grenades
 - Fixed-camera arena
 - Controller support
